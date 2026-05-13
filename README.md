@@ -13,3 +13,6 @@ keyboard support works too (return for equals, esc for clear, etc)
 needs an apple silicon mac or an ios device to run.
 
 it works. i'm tired.
+
+
+<img width="1768" height="1228" alt="CleanShot 2026-05-13 at 07 48 50" src="https://github.com/user-attachments/assets/dab671d2-08a8-4f43-9497-8991a1daf71d" />
