@@ -19,7 +19,7 @@ struct ContentView: View {
         .background(Color.black.ignoresSafeArea())
         #if os(macOS)
         .frame(minWidth: 700, maxWidth: 1000)
-        .frame(height: 520)
+        .frame(height: 550)
         #endif
         .focusable()
         .focusEffectDisabled()

@@ -14,7 +14,7 @@ struct CompactLayout: View {
                 ButtonGrid(engine: engine, compact: true)
                     .padding(.horizontal, 12)
                     .padding(.top, 12)
-                    .padding(.bottom, 40)
+                    .padding(.bottom, 60)
             }
 
             if showHistory {
@@ -39,7 +39,7 @@ struct WideLayout: View {
                 ButtonGrid(engine: engine, compact: false)
                     .padding(.horizontal, 16)
                     .padding(.top, 16)
-                    .padding(.bottom, 32)
+                    .padding(.bottom, 50)
             }
             .frame(maxWidth: 360)
 

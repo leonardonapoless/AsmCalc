@@ -15,7 +15,7 @@ struct DisplayArea: View {
             HStack(alignment: .center, spacing: 8) {
                 Text(">")
                     .font(.system(size: displayFontSize * 0.55, weight: .bold, design: .monospaced))
-                    .offset(y: 2) // optical center adjustment
+                    .offset(y: 2) 
                 Text(engine.displayString)
                     .contentTransition(.numericText())
             }
